@@ -1,0 +1,10 @@
+# Build artifacts
+table_tennis
+*.o
+*.out
+
+# macOS system files
+.DS_Store
+
+# IDE / Editor files
+.vscode/
